@@ -1,4 +1,4 @@
-# unit
+# unit convertor application
 
 A new Flutter project.
 
